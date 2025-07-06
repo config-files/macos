@@ -1,0 +1,12 @@
+[core]
+    excludesFile = ~/.gitignore
+    editor = "subl -w"
+[credential]
+    helper = /usr/local/share/gcm-core/git-credential-manager
+[credential "https://dev.azure.com"]
+    useHttpPath = true
+[init]
+    defaultBranch = main
+[user]
+    name = 김예환 Ye-Hwan Kim (Sam)
+    email = yehwankim23@gmail.com

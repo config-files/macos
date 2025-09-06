@@ -1,0 +1,17 @@
+{
+  "buffer_font_family": "D2Coding",
+  "buffer_font_size": 21,
+  "wrap_guides": [100],
+  "use_on_type_format": false,
+  "auto_indent_on_paste": false,
+  "minimap": {
+    "show": "auto",
+    "display_in": "all_editors"
+  },
+  "soft_wrap": "editor_width",
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
+  "disable_ai": true
+}

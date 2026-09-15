@@ -20,6 +20,7 @@ google-chrome \
 google-drive \
 jetbrains-toolbox \
 linearmouse \
+localsend \
 logi-options+ \
 musescore \
 node@24 \
@@ -29,7 +30,7 @@ onlyoffice \
 python@3.13 \
 rectangle \
 sublime-text \
-temurin@21 \
+temurin@8 \
 visual-studio-code \
 vlc \
 zoom \
